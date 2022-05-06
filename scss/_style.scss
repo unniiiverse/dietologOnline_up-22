@@ -876,3 +876,19 @@ body {
         color: $accent;
     }
 }
+
+#copyright {
+    $text-light: #A5AAAF;
+    font-size: 14px;
+    
+    text-align: center;
+    font-size: 14px;
+    color: $text-light;
+    padding: 24px;
+
+    b {
+        font-size: 14px;
+        font-weight: 700;
+        color: $text-light;
+    }
+}

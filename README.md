@@ -1,6 +1,8 @@
 # HolyEat
 Тип: Landing Page <br>
 Сроки: 4 дня <br>
-Описание: HolyEat - Украинский сайт по подбору диетолога онлайн, есть мобильная версия 330px+. Присутствую микро-анимации при наведении на карточки. Отсутствуют страницы по ссылкам из меню навигации из-за отсутствия их макета.
 
-## [DEMO]()
+![HolyEat preview](https://unniv.info/projects/holyeat/preview.jpg)
+**[preview](https://unniv.info/projects/holyeat/)** <br>
+
+unniiiverse © 2022

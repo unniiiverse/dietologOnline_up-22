@@ -275,6 +275,10 @@ body { overflow-x: hidden !important; }
 
 #copyright span { color: #FD576C; }
 
+#copyright { font-size: 14px; text-align: center; font-size: 14px; color: #A5AAAF; padding: 24px; }
+
+#copyright b { font-size: 14px; font-weight: 700; color: #A5AAAF; }
+
 @media screen and (max-width: 1200px) { .rate-cards { grid-template-columns: 1fr 1fr; } }
 
 @media screen and (max-width: 1074px) { .how-cards { grid-template-columns: 1fr 1fr !important; }
