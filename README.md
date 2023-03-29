@@ -1,8 +1,19 @@
-# Dietologonline
-Тип: Landing Page <br>
-Сроки: 4 дня <br>
+# DietologOnline
+![PREVIEW](cover.jpg)
 
-![Dietolog preview](https://unniiiverse.github.io/cdn/image/projectPreview/dietologonline.jpg)
-[Посетить](https://unniiiverse.github.io/project/2022/dietologonline/)
+Get ease and freedom, be the first with a personal nutritionist.
+
+## [VISIT](https://unniiiverse.github.io/project/2022/dietologOnline/)
+
+Type: Landing Page, uncomercial. <br>
+Language: UKR. <br>
+Completed in: 4 days. <br>
+Pages: 1. <br>
+
+Status: COMPLETED <br>
+
+## Features
++ Adaptive for mobile devices.
++ A lot of hover animations.
 
 unniiiverse © 2022
